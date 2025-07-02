@@ -1,10 +1,10 @@
-# Welcome to Global Health Engineering! 🌍
+# Welcome to Global Health Engineering 🌍
 
-Our research focuses on the systems and technologies that can help improve all aspects of health in over-exploited countries and populations.
+We are a [research group](https://ghe.ethz.ch/) at ETH Zürich that focuses on the systems and technologies that can help improve all aspects of health in over-exploited countries and populations.
 
-![](ghe_logo.jpg)
+## Code
 
-While the field of Global Health seeks to address the drivers and outcomes of well-being for international populations from a medical or epidemiological perspective, [Global Health Engineering](https://ghe.ethz.ch/) addresses determinants of health as a function of engineered interventions and systems. Our work looks at ways of reducing the negative impacts of modern life, particularly in urban areas of over-exploited countries. Our research seeks to reduce the negative impacts of improperly managed human, organic, and anthropogenic waste while ensuring that solutions are affordable, effective, and acceptable to users.
+We are committed to Open Science, a movement aiming to make scientific research more accessible, inclusive, and transparent. In this repository, you'll find hardware designs, software, data packages, among many other outputs.  Most of them are licensed under CC-BY 4.0, meaning you have the right to share and adapt our materials, even commercially, as long as you give us credit.
 
 ## Open Student Projects
 
@@ -21,3 +21,10 @@ The semester projects are most probably not listed below. If you are looking for
 - Prof. Elizabeth Tilley: tilleye@ethz.ch
 
 Even if we did not list any open position for semester projects, we will find a topic for you!
+
+<br>
+<br>
+
+<p align="center">
+  <img src="ghe_logo.jpg" width="50%">
+</p>
