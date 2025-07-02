@@ -1,6 +1,6 @@
 # Welcome to Global Health Engineering 🌍
 
-We are a [research group](https://ghe.ethz.ch/) at ETH Zürich that focuses on the systems and technologies that can help improve all aspects of health in over-exploited countries and populations.
+We are an interdisciplinary research group at ETH Zürich focusing on the systems and technologies that can help improve all aspects of health in over-exploited countries and populations.
 
 ## Code
 
